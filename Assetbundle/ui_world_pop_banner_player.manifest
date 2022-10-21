@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1017122203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8b1423b5ce9e70096f4f7c5ed043edc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Texture/search/ui_world_pop_banner_player.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 112309724
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db3821b3b58cb5d947400ddf8c961d3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Prefab/Effect/UI/ui_fog_box_tex.png
+Dependencies: []

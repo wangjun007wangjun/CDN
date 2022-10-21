@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4254912200
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44226c8d74e0bdc237d3dffbd16a72cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 15fd4339aa6d8964cba1246406ae002c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/WildMap/wm_fog.prefab
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/allshader

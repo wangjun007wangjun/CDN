@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1254041296
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12c93f7d5a7b2900b18fc03b20f2d3b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Texture/build/building_0001.png
+Dependencies: []

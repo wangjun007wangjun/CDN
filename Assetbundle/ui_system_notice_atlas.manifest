@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2689285726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f00ff21d77cca605440c18ae9f6958f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/UI/ui_farm_log/atlas/ui_farm_log_atlas.png
+- Assets/Export/UI/ui_system_notice/atlas/ui_system_notice_atlas.png
+Dependencies: []

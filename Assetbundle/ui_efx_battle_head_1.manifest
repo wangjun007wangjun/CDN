@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2335508495
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1d74277f1123eb452efe4e40e1a6202
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Prefab/Effect/UI/ui_efx_battle_head_1.mat
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/allshader
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/light_spot_tex
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/ui_efx_battle_head_1_tex

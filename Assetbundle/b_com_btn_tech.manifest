@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 337185710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e64d06a8d07626ad7205fced3b58c89e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc319ba7c2149491797aa591055c113b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: edec6449dbd1f484cb26bb47eb87d7b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e638c4aa3c9c0e54c82cab2eb619489d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Export/UI/com_ui/button/b_com_btn_tech.prefab
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/icon_tech_atlas
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/ui_common

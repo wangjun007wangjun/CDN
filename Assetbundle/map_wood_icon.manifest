@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2007956670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a7b228bc0022447959fd3a19fc2b913
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Texture/map/map_wood_icon.png
+Dependencies: []

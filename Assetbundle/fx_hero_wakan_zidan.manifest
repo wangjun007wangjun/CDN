@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1369477670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec212c580a4159db0dd7f6535a69c2aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 927992f938b2fd1472c3a014541d1669
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Prefab/Effect/Hero/Wakan/FX_hero_Wakan_zidan.prefab
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/allshader

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2538903347
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c87bc9693b2756c7e2dde5ebe55c65a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Atlas/icon_hero_skill_atlas.png
+Dependencies: []

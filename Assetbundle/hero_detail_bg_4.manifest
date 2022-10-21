@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1312209041
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f226610ef6881ebd880476b4f26696dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Texture/hero/hero_detail_bg_4.png
+Dependencies: []

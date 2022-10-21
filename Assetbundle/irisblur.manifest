@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2412417704
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 979a2bcd8bb6bf4ef1542b384f3efc45
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Material/IrisBlur.mat
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/allshader

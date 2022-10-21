@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 892607528
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad83a8ec6005189aa49411523dabf2d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cafed437303c12f02ce9c44f63e4f6e5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: efefc62f682001b4e903fc30639d0794, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 506b9800f1e38d14d87525d3a3dfc134, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dcf7c1f8613056c45a0aaa22cf7b3410, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIComponentBind/ComponentData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Export/Prefab/UIHero/b_t_unit_new.prefab
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/font
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/spritedefault
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/ui_world_battle_atlas

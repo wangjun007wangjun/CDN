@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3818379904
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d4e76b49d2d4cab1b75c7037a1a762d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/UI/ui_alliance_appointment/atlas/ui_alliance_appointment_atlas.png
+Dependencies: []

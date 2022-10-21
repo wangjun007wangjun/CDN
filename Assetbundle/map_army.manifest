@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 397523538
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 513a95758cd2947dfe8eef755bca1af9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Texture/map/map_army.png
+Dependencies: []

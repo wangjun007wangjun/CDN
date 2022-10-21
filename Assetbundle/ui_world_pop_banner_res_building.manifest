@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1785344603
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ade881eaf05427b44495acf40c883cb6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Texture/search/ui_world_pop_banner_res_building.png
+Dependencies: []

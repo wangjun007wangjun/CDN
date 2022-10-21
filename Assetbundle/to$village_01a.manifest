@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1087762439
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5805613fb09ac504d9482aef275b98d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ecc7c7f038d7781187cc6b58c9a7002e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd56f11e6123bcc48a791a383a1cf845, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Prefab/MapRes/to$Village_01A.prefab
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/allshader

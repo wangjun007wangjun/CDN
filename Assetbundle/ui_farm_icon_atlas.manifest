@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2764712871
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0541c3f5200a272157275dd7c3481664
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Atlas/ui_farm_icon_atlas.png
+Dependencies: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2007702981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 82b8632a5855593c19b349e7e3b389da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9212b66b7c1a89035a5965bb152a7bdd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Prefab/TempRes2/Hero/Polygonal Treant Green.prefab
+Dependencies: []

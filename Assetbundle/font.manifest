@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 4257485230
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 909224428e765213be51e1c6a92ea2fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5f58c3f43fa7d6d496cde309785cf24e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteCharacter
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteGlyph
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+Assets:
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_shadow_black30_linear.mat
+- Assets/Export/Font/Quadrat_Regular_SDF_btn_shadow.mat
+- Assets/Export/Font/Quadrat_Regular_SDF_underlay_blood_outline.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_outline_name_green.mat
+- Assets/Export/Font/Quadrat_Regular_SDF.asset
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_underlay_shadow02.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_overlay.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_outline_name_green_linear.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_outline_name_blue.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_outline_blood01.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_outline_blood03.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF.ttf
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_shadow_black35.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_outline_name_brown.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_outline_name_gray_linear.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_underlay_shadow01.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_outline_name_blue_linear.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_outline_black.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_outline_name_red.mat
+- Assets/Export/Font/Quadrat-Regular.otf
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_outline_name_red_linear.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_outline_blood02.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_outline_name_gray.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_shadow_black60.mat
+- Assets/Module/TextMesh Pro/Resources/Sprite Assets/EmojiGame.asset
+- Assets/Export/Font/Quadrat_Regular_SDF_btn_shadw_01.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_tab_btn_shadow.mat
+- Assets/Export/Font/Quadrat_Regular_SDF_pop_title_shadow.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF.asset
+- Assets/Export/Font/Quadrat_Regular_SDF_btn_shadw_02.mat
+- Assets/Export/Font/Quadrat_Regular_SDF_underlay_shadow01.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_shadow_white_20.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_outline_black100.mat
+- Assets/Export/Font/Alibaba-PuHuiTi-Regular_SDF_outline.mat
+Dependencies: []

@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 1543240252
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1639676d6038131422921333ab85750a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 84be78b781ea941e08798da1075a8c2b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2cf9077449db55348bb2c462f80bda7d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: GlobalMapElement
+Assets:
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/mountain_white_1.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/mountain_white_6.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/mountain_white_4.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/tengman_2.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/tree_green_3.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/tengman_1.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/tree_green_1.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/mountain_green_6.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/tree_green_2.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/mountain_white_2.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/mountain_green_3.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/tree_white_5.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/tengman_3.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/mountain_green_5.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/mountain_green_4.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/tree_white_2.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/tree_green_4.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/decorate_green_2.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/tree_white_4.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/mushroom_1.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/tree_white_1.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/decorate_green_1.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/tree_white_3.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/decorate_white_2.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/tree_green_5.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/mountain_green_1.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/mountain_white_5.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/mountain_green_2.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/mountain_white_3.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/mushroom_2.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/decorate_white_1.prefab
+- Assets/Export/Prefab/WildMap/GlobalMap2D/Merge/top_map_2d_element/big_tree.prefab
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/global_map_atlas
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/topmap_sprite

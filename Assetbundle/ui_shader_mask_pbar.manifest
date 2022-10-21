@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3782293552
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 963a7c79aeab8377f2de230a29cb7c0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Prefab/Effect/UI/ui_shader_mask_pbar.png
+Dependencies: []

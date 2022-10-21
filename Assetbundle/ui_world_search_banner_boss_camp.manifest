@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1379221290
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a9ed99ef13824aecb90b16090913504
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Texture/search/ui_world_search_banner_boss_camp.png
+Dependencies: []

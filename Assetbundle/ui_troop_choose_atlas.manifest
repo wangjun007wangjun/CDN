@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3669179482
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5ede7afab79affb9c2613f8740685dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/UI/ui_troop_choose/atlas/ui_troop_choose_atlas.png
+Dependencies: []

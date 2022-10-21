@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3743441028
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c4725ba8adbf8a87ce64636f6735499
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/UI/ui_hero_star_info/atlas/ui_hero_ster_info_atlas.png
+Dependencies: []

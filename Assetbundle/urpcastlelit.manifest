@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1581430930
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e1cd5e4d63c722f7f85ebf2dc893c86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Material/URPCastleLit.mat
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/allshader

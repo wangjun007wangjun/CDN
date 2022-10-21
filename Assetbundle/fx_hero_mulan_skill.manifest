@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2246787525
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b8bb15f54b50e256db76a4e7341cc44
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 50c0d69fdc473aa177dbf1f3a4c4a621
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: efefc62f682001b4e903fc30639d0794, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Prefab/Effect/Hero/Mulan/FX_hero_MuLan_skill.prefab
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/allshader

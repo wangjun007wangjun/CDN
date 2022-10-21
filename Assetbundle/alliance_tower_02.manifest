@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 3588131042
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8974e47e3becd4cef21f0e1a05ed1c58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ca94a18a63de41ac57d20cb7365aceda
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: efefc62f682001b4e903fc30639d0794, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 592e3780e78af2b44b589e81455eeb0c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: LodLayer/LodData
+- AssemblyName: Assembly-CSharp
+  ClassName: UIComponentBind/ComponentData
+Assets:
+- Assets/Export/Prefab/WildMap/AllianceBuildings/alliance_tower_02.prefab
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/allshader
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/map_alliance_tower_icon
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/spriterendernoztest
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/wm_troop

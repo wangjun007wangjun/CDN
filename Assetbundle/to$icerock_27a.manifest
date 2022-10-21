@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2111458895
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 534297bef80dc0a9c8e42a1aeda69168
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8c2cf238778cd56d8decb8fd9c475a59
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 592e3780e78af2b44b589e81455eeb0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4bc64565b9bc2394b9e8a507c3fb783b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: LodLayer/LodData
+Assets:
+- Assets/Export/Prefab/MapRes/to$IceRock_27A.prefab
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/allshader

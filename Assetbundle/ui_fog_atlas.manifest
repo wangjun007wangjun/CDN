@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 436117932
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4c4e763be7c1a46d69a55b96d2a99e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/UI/ui_fog_explore/atlas/ui_fog_explore_atlas.png
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 750654500
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c84a0317147ac94529e572715da06655
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Prefab/Effect/UI/ui_bag_round_03_1.png
+Dependencies: []

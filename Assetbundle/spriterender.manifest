@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3969620882
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb6b5a655dbb45562309f708754a86f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Material/SpriteRender.mat
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/allshader

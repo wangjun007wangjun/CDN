@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4101823657
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c08911fb94a1094d6c81c39f79d5ae8e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/UI/ui_mail/atlas/ui_mail_atlas.png
+Dependencies: []

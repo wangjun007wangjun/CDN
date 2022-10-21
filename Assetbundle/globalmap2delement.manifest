@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3839498023
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a50940deacb72b92cec398e31db2b74e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: df2644b401fa82b3551dc56d9e342c89
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2cf9077449db55348bb2c462f80bda7d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: GlobalMapElement
+Assets:
+- Assets/Export/Prefab/WildMap/GlobalMap2D/GlobalMap2DElement.prefab
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/globalmap2d_element
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/top_map_atlas

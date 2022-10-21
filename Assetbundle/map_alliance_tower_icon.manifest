@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3692226463
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e536a5b923d8084bd269bbaed2009596
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Texture/map/map_alliance_tower_icon.png
+Dependencies: []

@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 1791834716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2fc2755513c6bf39facf589abbce774
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e2bb5f604969aa5c93d9fd922aa3f1ec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: efefc62f682001b4e903fc30639d0794, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 592e3780e78af2b44b589e81455eeb0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2cf9077449db55348bb2c462f80bda7d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: GlobalMapElement
+- AssemblyName: Assembly-CSharp
+  ClassName: LodLayer/LodData
+- AssemblyName: Assembly-CSharp
+  ClassName: UIComponentBind/ComponentData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Export/Prefab/WildMap/Merge/map_icon/topmap_beacon.prefab
+- Assets/Export/Prefab/WildMap/Merge/map_icon/topmap_city_icon.prefab
+- Assets/Export/Prefab/WildMap/Merge/map_icon/topmap_main_tree_icon.prefab
+- Assets/Export/Prefab/WildMap/Merge/map_icon/topmap_hamlet_icon.prefab
+- Assets/Export/Prefab/WildMap/Merge/map_icon/topmap_gate_icon.prefab
+- Assets/Export/Prefab/WildMap/Merge/map_icon/topmap_boss_icon.prefab
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/font
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/global_map_atlas
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/icon_player_head_atlas
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/map_beacon_icon
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/map_beacon_icon_complete
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/map_boss_icon
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/map_city_icon
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/map_gate_icon
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/map_hamlet_icon
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/spriterendernoztest

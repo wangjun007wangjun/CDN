@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3566157151
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d248c078c73d2526c57fe7d8b93dbbb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7a107dc2e5b91368bb715249dde775ee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Prefab/MapRes/to$IceBuildings_10A.prefab
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/allshader

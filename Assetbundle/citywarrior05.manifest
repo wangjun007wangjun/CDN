@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1572024199
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4729c3240dedea8f4b03e834001f468
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1a6468efe38236c24e386b31627e2f4c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Prefab/UrbanSystem/CityWarrior05.prefab
+Dependencies: []

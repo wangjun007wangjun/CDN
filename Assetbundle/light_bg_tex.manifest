@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2124674541
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7db9162f271f39d8acc4ac0aeff13fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Prefab/Effect/UI/light_bg_tex.png
+Dependencies: []

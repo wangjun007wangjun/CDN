@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3767061289
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 524091892dd9fb65bc6152093060023b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Atlas/ui_com_building_pop_btn_atlas.png
+Dependencies: []

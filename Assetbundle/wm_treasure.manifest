@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 4197871972
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7fa614145ae355cbe51a795a9feb0dc8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0fd725e5a4f4716041879e4e4edfb370
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: efefc62f682001b4e903fc30639d0794, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 592e3780e78af2b44b589e81455eeb0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c0b404ed45a3543815cb49370ae717, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97858f7b90563f54db580dcad5ec248b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: LodLayer/LodData
+- AssemblyName: Assembly-CSharp
+  ClassName: UIComponentBind/ComponentData
+Assets:
+- Assets/Export/Prefab/WildMap/Merge/wm_treasure/b_t_treasure1.prefab
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/allshader

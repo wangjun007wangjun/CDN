@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2065223645
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1a57c15012386b0dfe27ea887e7f1d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Texture/map/map_boss_icon.png
+Dependencies: []

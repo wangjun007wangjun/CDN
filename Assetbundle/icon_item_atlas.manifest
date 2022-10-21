@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3527090534
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1467806adfdc5ccf17952d513acc5ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Atlas/icon_item_atlas.png
+Dependencies: []

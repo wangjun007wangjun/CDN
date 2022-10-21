@@ -1,0 +1,109 @@
+ManifestFileVersion: 0
+CRC: 9030475
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1163b6f5ab1c213893b2974a0f4c7594
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b814999a66ed7843a1a36e325e08237
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efefc62f682001b4e903fc30639d0794, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 592e3780e78af2b44b589e81455eeb0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a44642fae4f547243b2ed52bbda83803, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80c3394e4b406aa41879f8f7aa29cf3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68767f191158cfb4e83a404c0f8d3a6d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dcf7c1f8613056c45a0aaa22cf7b3410, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2cf9077449db55348bb2c462f80bda7d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: GlobalMapElement
+- AssemblyName: Assembly-CSharp
+  ClassName: LodLayer/LodData
+- AssemblyName: Assembly-CSharp
+  ClassName: UIComponentBind/ComponentData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Export/Prefab/WildMap/Merge/wm_troop/TroopLine.prefab
+- Assets/Export/Prefab/WildMap/Merge/wm_troop/troopline_me/TroopLineDone_me.prefab
+- Assets/Export/Prefab/WildMap/Merge/wm_troop/troopline_me/TroopDestination_me.prefab
+- Assets/Export/Prefab/WildMap/Merge/wm_troop/GroundSelectEffect.prefab
+- Assets/Export/Prefab/WildMap/Merge/wm_troop/troopline_me/TroopLine_me.prefab
+- Assets/Export/Prefab/WildMap/Merge/wm_troop/ChooseMapPosition.prefab
+- Assets/Export/Prefab/WildMap/Merge/wm_troop/TroopOb1.prefab
+- Assets/Export/Prefab/WildMap/Merge/wm_troop/troopline_me/TroopSelected_me.prefab
+- Assets/Export/Prefab/WildMap/Merge/wm_troop/TroopObject.prefab
+- Assets/Export/Prefab/WildMap/Merge/wm_troop/MapRectangleShow.prefab
+- Assets/Export/Prefab/WildMap/Merge/wm_troop/TroopLineDrag.prefab
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/allshader
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/city_select
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/font
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/icon_hero_head_atlas
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/map_army
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/map_monster_material
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/spritedefault
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/spriterender
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/spritetroopline
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/ui_common
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/ui_world_battle_atlas
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/wm_progressbar

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3825222211
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ba294cf2a2ca88db70ef690bc8cc6b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/UI/ui_rank/atlas/ui_rank_atlas.png
+Dependencies: []

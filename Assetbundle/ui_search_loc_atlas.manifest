@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 449457468
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51ee9067aff3c0d09ae2d2a73296cf83
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/UI/ui_search_loc/atlas/ui_search_loc_atlas.png
+Dependencies: []

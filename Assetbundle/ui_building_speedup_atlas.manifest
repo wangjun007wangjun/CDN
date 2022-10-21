@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1704544677
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4052b8cdee1202e2274cf5111bc5e70d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/UI/ui_building_speedup/atlas/ui_building_speedup_atlas.png
+Dependencies: []

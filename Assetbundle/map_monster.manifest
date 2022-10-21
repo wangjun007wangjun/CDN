@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3665408943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca5fa8baff69b6b403ba1ff6a37752d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Texture/map/map_monster.png
+Dependencies: []

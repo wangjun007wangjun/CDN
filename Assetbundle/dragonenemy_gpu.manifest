@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 167489706
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 770ec29a4fe117a5e0847e1540abac4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7a107dc2e5b91368bb715249dde775ee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Prefab/TempRes2/Soldier/DragonEnemy_gpu.prefab
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/allshader

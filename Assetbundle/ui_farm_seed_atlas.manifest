@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3498422805
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c7d10d1e441ba4d43872917e006f4fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/UI/ui_farm_seed/atlas/ui_farm_seed_atlas.png
+Dependencies: []

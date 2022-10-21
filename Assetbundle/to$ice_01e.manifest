@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1325624726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 036c9ec33c503d9c3cbdc4bfdd8fb340
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3acce89c9f70e5453e5e6bef65da9744
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0c7f1a208cdbf6f43b9d87a04dc8da12, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Prefab/MapRes/to$Ice_01E.prefab
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/allshader

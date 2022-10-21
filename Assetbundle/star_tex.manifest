@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2696795154
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e141f39097a361141321d60f8ec28950
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Prefab/Effect/UI/star_tex.jpg
+Dependencies: []

@@ -1,0 +1,2940 @@
+ManifestFileVersion: 0
+CRC: 153257024
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bumbleenemy_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_1:
+      Name: wm_troop
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: spritetroopline
+        Dependency_3: wm_progressbar
+        Dependency_4: spritedefault
+        Dependency_5: ui_common
+        Dependency_6: icon_hero_head_atlas
+        Dependency_7: city_select
+        Dependency_8: ui_world_battle_atlas
+        Dependency_9: map_army
+        Dependency_10: spriterender
+        Dependency_11: map_monster_material
+    Info_2:
+      Name: font
+      Dependencies: {}
+    Info_3:
+      Name: allshader
+      Dependencies: {}
+    Info_4:
+      Name: ui_wildmap_test
+      Dependencies:
+        Dependency_0: ui_common_atlas_v2_6
+    Info_5:
+      Name: polygonal golem green_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_6:
+      Name: ui_search
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common
+        Dependency_3: b_com_btn_normal
+        Dependency_4: b_com_slider
+        Dependency_5: ui_world_search_atlas
+        Dependency_6: ui_world_search_banner_monster
+        Dependency_7: ui_world_search_banner_boss_camp
+        Dependency_8: ui_world_search_banner_res_1
+        Dependency_9: tiltshift
+    Info_7:
+      Name: stingenemy
+      Dependencies: {}
+    Info_8:
+      Name: ui_main_troop
+      Dependencies: {}
+    Info_9:
+      Name: ui_alliance_create
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common_atlas_v2_6
+        Dependency_3: ui_common
+        Dependency_4: icon_player_head_atlas
+        Dependency_5: ui_alliance_create_atlas
+        Dependency_6: ui_com_alliance_flag_atlas
+        Dependency_7: b_top_res
+        Dependency_8: b_com_btn_normal
+        Dependency_9: b_com_btn_side_tab
+        Dependency_10: b_com_full_top_back
+        Dependency_11: common_ui_full_bg
+        Dependency_12: ui_soft_mask_bottom_62
+    Info_10:
+      Name: ice_dragon
+      Dependencies: {}
+    Info_11:
+      Name: ui_float_window
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_12:
+      Name: fungi_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_13:
+      Name: urbansystem
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common_atlas_v2_6
+        Dependency_3: b_build_ui
+        Dependency_4: ui_city_atlas
+        Dependency_5: ui_mail_main
+        Dependency_6: ui_world_search_atlas
+        Dependency_7: ui_farm_icon_atlas
+        Dependency_8: ui_com_building_pop_btn_atlas
+    Info_14:
+      Name: dragonenemy
+      Dependencies: {}
+    Info_15:
+      Name: spritetroopline
+      Dependencies: {}
+    Info_16:
+      Name: toadstool2
+      Dependencies: {}
+    Info_17:
+      Name: ui_select_server
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_18:
+      Name: hs03_modularhero_09
+      Dependencies: {}
+    Info_19:
+      Name: ui_choose_hero
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_big_map_atlas
+    Info_20:
+      Name: mushroomenemy
+      Dependencies: {}
+    Info_21:
+      Name: ui_mail
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: ui_mail_banner_01
+        Dependency_3: b_t_item
+        Dependency_4: icon_player_head_atlas
+        Dependency_5: b_com_full_top_back
+        Dependency_6: ui_mail_atlas
+        Dependency_7: icon_hero_head_atlas
+        Dependency_8: icon_hero_skill_atlas
+        Dependency_9: building_0002
+        Dependency_10: building_0001
+        Dependency_11: world_map_monster_0001
+    Info_22:
+      Name: wm_treasure
+      Dependencies:
+        Dependency_0: allshader
+    Info_23:
+      Name: top_map_atlas
+      Dependencies: {}
+    Info_24:
+      Name: golemearth
+      Dependencies: {}
+    Info_25:
+      Name: ui_skill_exchange
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_26:
+      Name: normal_big_wate_01
+      Dependencies:
+        Dependency_0: wm_troop
+        Dependency_1: font
+        Dependency_2: allshader
+        Dependency_3: glow_tex
+        Dependency_4: spriterendernoztest
+        Dependency_5: ui_world_building_state_atlas
+        Dependency_6: map_water_icon
+    Info_27:
+      Name: flowerpot_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_28:
+      Name: b_t_skill
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_world_battle_atlas
+    Info_29:
+      Name: bumbleenemy
+      Dependencies: {}
+    Info_30:
+      Name: ui_farm_seed
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common
+        Dependency_3: b_com_full_top_back
+        Dependency_4: ui_farm_icon_atlas
+        Dependency_5: ui_farm_seed_atlas
+    Info_31:
+      Name: toadstoolenemy_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_32:
+      Name: ui_update
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_33:
+      Name: polygonal golem green
+      Dependencies: {}
+    Info_34:
+      Name: sting_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_35:
+      Name: ui_main_boss
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_big_map_atlas
+    Info_36:
+      Name: ui_alliance
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common
+        Dependency_3: ui_com_alliance_flag_atlas
+        Dependency_4: b_com_full_top_back
+        Dependency_5: ui_alliance_atlas
+        Dependency_6: ui_alliance_bg
+    Info_37:
+      Name: ui_common_atlas_v2_6
+      Dependencies: {}
+    Info_38:
+      Name: golemearthenemy_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_39:
+      Name: ui_battle_float
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_big_map_atlas
+    Info_40:
+      Name: fungi
+      Dependencies: {}
+    Info_41:
+      Name: b_build_ui
+      Dependencies:
+        Dependency_0: font
+    Info_42:
+      Name: ui_login_bg
+      Dependencies: {}
+    Info_43:
+      Name: dragon_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_44:
+      Name: ui_chat_friend
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_common
+        Dependency_3: icon_player_head_atlas
+        Dependency_4: b_com_btn_switch
+        Dependency_5: b_com_pop_small
+        Dependency_6: ui_soft_mask_round
+        Dependency_7: ui_chat_friend_atals
+    Info_45:
+      Name: dotline
+      Dependencies: {}
+    Info_46:
+      Name: troop_show
+      Dependencies:
+        Dependency_0: allshader
+    Info_47:
+      Name: polygonal treant green_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_48:
+      Name: ui_troop_main
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_common
+        Dependency_3: icon_player_head_atlas
+        Dependency_4: common_ui_full_bg
+        Dependency_5: icon_hero_head_atlas
+        Dependency_6: icon_hero_skill_atlas
+        Dependency_7: ui_hero_detail_atlas
+        Dependency_8: role_00
+    Info_49:
+      Name: toadstool
+      Dependencies: {}
+    Info_50:
+      Name: ui_search_loc
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_search_loc_atlas
+    Info_51:
+      Name: bear warrior-black_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_52:
+      Name: bgm_bigmap
+      Dependencies: {}
+    Info_53:
+      Name: mushroom_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_54:
+      Name: ui_login
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_login_bg
+    Info_55:
+      Name: fungienemy_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_56:
+      Name: flowerpot
+      Dependencies: {}
+    Info_57:
+      Name: ui_confirm
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_unread_tip
+        Dependency_3: b_com_pop_tiny
+    Info_58:
+      Name: bumble_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_59:
+      Name: toadstoolenemy
+      Dependencies: {}
+    Info_60:
+      Name: hs03_modularhero_15
+      Dependencies: {}
+    Info_61:
+      Name: sting
+      Dependencies: {}
+    Info_62:
+      Name: ui_main_battle
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_big_map_atlas
+    Info_63:
+      Name: ui_city_atlas
+      Dependencies: {}
+    Info_64:
+      Name: golemearthenemy
+      Dependencies: {}
+    Info_65:
+      Name: ui_task
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_common
+        Dependency_3: b_t_item
+        Dependency_4: b_com_btn_normal
+        Dependency_5: b_com_btn_side_tab
+        Dependency_6: b_com_full_top_back
+        Dependency_7: icon_tab_btn_atlas
+        Dependency_8: icon_item_atlas
+        Dependency_9: ui_glow
+        Dependency_10: common_ui_full_bg
+        Dependency_11: ui_task_claim_light_2
+        Dependency_12: ui_task_claim_light
+        Dependency_13: ui_task_atlas
+    Info_66:
+      Name: city_01
+      Dependencies:
+        Dependency_0: wm_troop
+        Dependency_1: font
+        Dependency_2: allshader
+        Dependency_3: icon_player_head_atlas
+        Dependency_4: ui_world_building_title_atlas
+        Dependency_5: spriterendernoztest
+        Dependency_6: map_city_icon
+    Info_67:
+      Name: flowerpotenemy_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_68:
+      Name: ui_debug_api
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_69:
+      Name: fx_ui_click_001
+      Dependencies:
+        Dependency_0: allshader
+    Info_70:
+      Name: dragon
+      Dependencies: {}
+    Info_71:
+      Name: ui_chat
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_city_atlas
+        Dependency_3: ui_common
+        Dependency_4: ui_chat_atlas
+        Dependency_5: icon_player_head_atlas
+        Dependency_6: ui_soft_mask_round
+    Info_72:
+      Name: hero_show_detail
+      Dependencies:
+        Dependency_0: hero_detail_bg_2
+        Dependency_1: hero_detail_bg_4
+        Dependency_2: hero_detail_bg_3
+    Info_73:
+      Name: polygonal treant green
+      Dependencies: {}
+    Info_74:
+      Name: ui_troop_list
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: icon_item_atlas
+        Dependency_3: icon_hero_head_atlas
+        Dependency_4: ui_troop_list_atlas
+    Info_75:
+      Name: stingenemy_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_76:
+      Name: ui_renwu
+      Dependencies: {}
+    Info_77:
+      Name: bear warrior-black
+      Dependencies: {}
+    Info_78:
+      Name: ui_alliance_guide
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common
+        Dependency_3: light_bg
+        Dependency_4: trail_00
+        Dependency_5: ui_alliance_guide_atlas
+        Dependency_6: bg_glow_line_02
+        Dependency_7: bg_glow_line_01
+    Info_79:
+      Name: mushroom
+      Dependencies: {}
+    Info_80:
+      Name: ui_loading
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_login_bg
+    Info_81:
+      Name: wm_progressbar
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: ui_common_atlas_v2_6
+    Info_82:
+      Name: fungienemy
+      Dependencies: {}
+    Info_83:
+      Name: ui_hero_detail
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_big_map_atlas
+        Dependency_3: ui_common
+        Dependency_4: b_com_btn_item
+        Dependency_5: b_com_full_top_back
+        Dependency_6: icon_item_atlas
+        Dependency_7: ui_world_search_atlas
+        Dependency_8: icon_hero_skill_atlas
+        Dependency_9: ui_hero_detail_atlas
+    Info_84:
+      Name: dragonenemy_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_85:
+      Name: ui_com_banner
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: icon_item_atlas
+    Info_86:
+      Name: uiline
+      Dependencies:
+        Dependency_0: allshader
+    Info_87:
+      Name: b_t_blood
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_world_battle_atlas
+    Info_88:
+      Name: bumble
+      Dependencies: {}
+    Info_89:
+      Name: ui_building_upgrade
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_t_item
+        Dependency_3: b_com_full_top_back
+        Dependency_4: ui_building_atlas
+        Dependency_5: irisblur
+    Info_90:
+      Name: toadstool_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_91:
+      Name: ui_setting
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_92:
+      Name: hs03_modularhero_11
+      Dependencies: {}
+    Info_93:
+      Name: ui_choose_troop
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_94:
+      Name: mushroomenemy_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_95:
+      Name: ui_main
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common_atlas_v2_6
+        Dependency_3: ui_big_map_atlas
+        Dependency_4: ui_common
+        Dependency_5: light_bg
+        Dependency_6: icon_player_head_atlas
+        Dependency_7: icon_item_atlas
+        Dependency_8: icon_hero_head_atlas
+        Dependency_9: ui_soft_mask_round
+        Dependency_10: ui_main_atlas
+        Dependency_11: fx_niose_04
+    Info_96:
+      Name: ui_big_map_atlas
+      Dependencies: {}
+    Info_97:
+      Name: golemearth_gpu
+      Dependencies:
+        Dependency_0: allshader
+    Info_98:
+      Name: flowerpotenemy
+      Dependencies: {}
+    Info_99:
+      Name: ui_cheat_view
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_100:
+      Name: fx_texiao
+      Dependencies: {}
+    Info_101:
+      Name: urbansystem 1
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common_atlas_v2_6
+        Dependency_3: b_build_ui
+        Dependency_4: ui_city_atlas
+        Dependency_5: ui_big_map_atlas
+        Dependency_6: ui_common
+        Dependency_7: ui_mail_main
+        Dependency_8: icon_item_atlas
+        Dependency_9: ui_world_search_atlas
+        Dependency_10: ui_alliance_atlas
+    Info_102:
+      Name: ui_alliance_info
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_city_atlas
+    Info_103:
+      Name: ui_alliance_popup
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_city_atlas
+    Info_104:
+      Name: ui_alliance_appointment
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: icon_player_head_atlas
+        Dependency_3: b_com_full_top_back
+        Dependency_4: common_ui_full_bg
+        Dependency_5: ui_alliance_appointment_atlas
+    Info_105:
+      Name: ui_alliance_create_team
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_106:
+      Name: ui_alliance_jurisdiction
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_com_btn_normal
+        Dependency_3: b_com_pop_normal
+        Dependency_4: ui_soft_mask_bottom_62
+    Info_107:
+      Name: ui_alliance_application
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_108:
+      Name: ui_alliance_function
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_city_atlas
+    Info_109:
+      Name: ui_farm_log
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common
+        Dependency_3: icon_player_head_atlas
+        Dependency_4: b_com_btn_item
+        Dependency_5: ui_bag_atlas
+        Dependency_6: ui_bag_round_02
+        Dependency_7: ui_bag_round_03
+        Dependency_8: ui_soft_mask_bottom_62
+        Dependency_9: ui_mall_atlas
+        Dependency_10: ui_system_notice_atlas
+        Dependency_11: b_com_pop_normal_sort
+    Info_110:
+      Name: ui_alliance_gift
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: top_map_atlas
+        Dependency_2: ui_common_atlas_v2_6
+        Dependency_3: ui_city_atlas
+    Info_111:
+      Name: ui_tip
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_common
+        Dependency_3: icon_item_atlas
+        Dependency_4: icon_hero_skill_atlas
+    Info_112:
+      Name: ui_rank
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: icon_player_head_atlas
+        Dependency_3: b_com_full_top_back
+        Dependency_4: b_unread_tip
+        Dependency_5: common_ui_full_bg
+        Dependency_6: ui_soft_mask_bottom_62
+        Dependency_7: b_com_empty_tip
+        Dependency_8: ui_rank_atlas
+        Dependency_9: b_com_alliance_flag
+    Info_113:
+      Name: ui_player_info
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_big_map_atlas
+        Dependency_3: ui_common
+        Dependency_4: icon_player_head_atlas
+    Info_114:
+      Name: spritedefault
+      Dependencies: {}
+    Info_115:
+      Name: b_t_unit_new
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: spritedefault
+        Dependency_2: ui_world_battle_atlas
+    Info_116:
+      Name: b_t_head_new
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: spritedefault
+        Dependency_2: icon_hero_head_atlas
+        Dependency_3: ui_world_battle_atlas
+        Dependency_4: ui_efx_battle_head_1
+    Info_117:
+      Name: b_t_city
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_118:
+      Name: ui_hero_skill_info
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+    Info_119:
+      Name: ui_chat_group
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: icon_player_head_atlas
+        Dependency_3: b_com_btn_switch
+        Dependency_4: b_com_pop_small
+    Info_120:
+      Name: b_t_sign
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common_atlas_v2_6
+        Dependency_3: spritedefault
+    Info_121:
+      Name: ui_hero_awake_skill_info
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+    Info_122:
+      Name: ui_alliance_edit_relation
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_123:
+      Name: ui_alliance_setting
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_common
+    Info_124:
+      Name: to$stone_09a
+      Dependencies:
+        Dependency_0: allshader
+    Info_125:
+      Name: to$stone_07a
+      Dependencies:
+        Dependency_0: allshader
+    Info_126:
+      Name: to$stone_05a
+      Dependencies:
+        Dependency_0: allshader
+    Info_127:
+      Name: to$stone_03a
+      Dependencies:
+        Dependency_0: allshader
+    Info_128:
+      Name: to$stone_10a
+      Dependencies:
+        Dependency_0: allshader
+    Info_129:
+      Name: to$stone_08a
+      Dependencies:
+        Dependency_0: allshader
+    Info_130:
+      Name: to$stone_06a
+      Dependencies:
+        Dependency_0: allshader
+    Info_131:
+      Name: to$stone_04a
+      Dependencies:
+        Dependency_0: allshader
+    Info_132:
+      Name: ui_reward
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: b_t_item
+        Dependency_3: light_bg
+        Dependency_4: ui_glow
+        Dependency_5: ui_reward_atlas
+        Dependency_6: star
+    Info_133:
+      Name: fx_zidan01
+      Dependencies:
+        Dependency_0: allshader
+    Info_134:
+      Name: fx_zidan02
+      Dependencies:
+        Dependency_0: allshader
+    Info_135:
+      Name: fx_zidan03
+      Dependencies:
+        Dependency_0: allshader
+    Info_136:
+      Name: ui_power_info
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_137:
+      Name: ui_mark
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_138:
+      Name: ui_add_mark
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_139:
+      Name: ui_common
+      Dependencies: {}
+    Info_140:
+      Name: ui_mail_main
+      Dependencies: {}
+    Info_141:
+      Name: ui_mail_banner_01
+      Dependencies: {}
+    Info_142:
+      Name: ui_get_rewards_pop_bg
+      Dependencies: {}
+    Info_143:
+      Name: b_t_item
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: icon_item_atlas
+    Info_144:
+      Name: wm_fog
+      Dependencies:
+        Dependency_0: allshader
+    Info_145:
+      Name: ui_scout_dispatch
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_146:
+      Name: fx_buff_temp
+      Dependencies:
+        Dependency_0: font
+    Info_147:
+      Name: light_bg
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: light_spot_tex
+        Dependency_2: light_bg_tex
+    Info_148:
+      Name: light_spot
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: light_spot_tex
+    Info_149:
+      Name: light_spot_tex
+      Dependencies: {}
+    Info_150:
+      Name: light_bg_tex
+      Dependencies: {}
+    Info_151:
+      Name: beacon
+      Dependencies:
+        Dependency_0: wm_troop
+        Dependency_1: allshader
+    Info_152:
+      Name: ui_beacon
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_153:
+      Name: skill_ring
+      Dependencies:
+        Dependency_0: font
+    Info_154:
+      Name: ui_event
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_common
+        Dependency_3: ui_mail_main
+    Info_155:
+      Name: wreckage
+      Dependencies:
+        Dependency_0: wm_troop
+        Dependency_1: allshader
+    Info_156:
+      Name: trail_00_tex
+      Dependencies: {}
+    Info_157:
+      Name: trail_00
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: trail_00_tex
+    Info_158:
+      Name: ui_alliance_guide_atlas
+      Dependencies: {}
+    Info_159:
+      Name: ui_alliance_help
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_160:
+      Name: ui_alliance_log
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_common
+        Dependency_3: ui_mail_main
+    Info_161:
+      Name: ui_alliance_mail
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_162:
+      Name: ui_technology_research
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_com_full_top_back
+        Dependency_3: ui_building_atlas
+    Info_163:
+      Name: ui_technology_tree
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common_atlas_v2_6
+        Dependency_3: ui_city_atlas
+        Dependency_4: ui_com_banner
+        Dependency_5: ui_common
+        Dependency_6: b_com_btn_side_tab
+        Dependency_7: b_com_full_top_back
+        Dependency_8: icon_tab_btn_atlas
+        Dependency_9: common_ui_full_bg
+        Dependency_10: b_com_btn_tech
+        Dependency_11: ui_soft_mask_horizontal_62
+    Info_164:
+      Name: ui_drop_info
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_city_atlas
+    Info_165:
+      Name: ui_chat_atlas
+      Dependencies: {}
+    Info_166:
+      Name: icon_player_head_atlas
+      Dependencies: {}
+    Info_167:
+      Name: explore_object
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common_atlas_v2_6
+        Dependency_3: spritedefault
+        Dependency_4: warrior01
+        Dependency_5: shooter01
+        Dependency_6: spriterendernoztest
+        Dependency_7: magic01
+        Dependency_8: ui_world_building_state_atlas
+    Info_168:
+      Name: ui_alliance_create_atlas
+      Dependencies: {}
+    Info_169:
+      Name: ui_com_alliance_flag_atlas
+      Dependencies: {}
+    Info_170:
+      Name: b_top_res
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+    Info_171:
+      Name: debugtext
+      Dependencies:
+        Dependency_0: font
+    Info_172:
+      Name: bg_glow_line_02
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: ui_alliance_flag_bg_efx
+    Info_173:
+      Name: bg_glow_line_01
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: ui_alliance_flag_bg_efx
+    Info_174:
+      Name: noise_6_32bit
+      Dependencies: {}
+    Info_175:
+      Name: ui_alliance_flag_bg_efx
+      Dependencies: {}
+    Info_176:
+      Name: ui_hero_equip
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_city_atlas
+    Info_177:
+      Name: b_com_btn_switch
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+    Info_178:
+      Name: b_com_btn_add
+      Dependencies:
+        Dependency_0: ui_common
+    Info_179:
+      Name: b_com_btn_item
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_common
+        Dependency_3: b_unread_tip
+        Dependency_4: icon_item_atlas
+    Info_180:
+      Name: b_com_btn_max
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+    Info_181:
+      Name: b_com_btn_minus
+      Dependencies:
+        Dependency_0: ui_common
+    Info_182:
+      Name: b_com_btn_normal
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_unread_tip
+    Info_183:
+      Name: b_com_btn_side_tab
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_unread_tip
+        Dependency_3: icon_tab_btn_atlas
+    Info_184:
+      Name: b_com_full_top_back
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+    Info_185:
+      Name: b_com_slider
+      Dependencies:
+        Dependency_0: ui_common
+    Info_186:
+      Name: b_unread_tip
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+    Info_187:
+      Name: ui_item_use_pop
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_com_btn_add
+        Dependency_3: b_com_btn_item
+        Dependency_4: b_com_btn_max
+        Dependency_5: b_com_btn_minus
+        Dependency_6: b_com_btn_normal
+        Dependency_7: b_com_slider
+        Dependency_8: b_com_pop_small
+    Info_188:
+      Name: b_com_pop_small
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+    Info_189:
+      Name: ui_alliance_building_select
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_city_atlas
+    Info_190:
+      Name: ui_alliance_build_info
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_city_atlas
+    Info_191:
+      Name: fx_ui_guide_frame
+      Dependencies: {}
+    Info_192:
+      Name: ui_guide
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: fx_ui_guide_frame
+    Info_193:
+      Name: ui_bag_atlas
+      Dependencies: {}
+    Info_194:
+      Name: ui_bag_round_02
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: ui_bag_round_02_1
+    Info_195:
+      Name: icon_tab_btn_atlas
+      Dependencies: {}
+    Info_196:
+      Name: icon_item_atlas
+      Dependencies: {}
+    Info_197:
+      Name: glow_tex
+      Dependencies: {}
+    Info_198:
+      Name: ui_bag_round_03
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: ui_bag_round_03_1
+    Info_199:
+      Name: ui_bag_round_02_1
+      Dependencies: {}
+    Info_200:
+      Name: ui_glow
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: light_spot_tex
+        Dependency_2: glow_tex
+    Info_201:
+      Name: ui_bag_round_03_1
+      Dependencies: {}
+    Info_202:
+      Name: common_ui_full_bg
+      Dependencies: {}
+    Info_203:
+      Name: ui_bag
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common
+        Dependency_3: b_com_btn_item
+        Dependency_4: b_com_btn_normal
+        Dependency_5: b_com_btn_side_tab
+        Dependency_6: b_com_full_top_back
+        Dependency_7: ui_bag_atlas
+        Dependency_8: ui_bag_round_02
+        Dependency_9: icon_tab_btn_atlas
+        Dependency_10: icon_item_atlas
+        Dependency_11: ui_bag_round_03
+        Dependency_12: common_ui_full_bg
+    Info_204:
+      Name: ui_com_jump
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_city_atlas
+    Info_205:
+      Name: ui_building_info
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_com_full_top_back
+        Dependency_3: ui_building_atlas
+        Dependency_4: irisblur
+    Info_206:
+      Name: ui_building_atlas
+      Dependencies: {}
+    Info_207:
+      Name: ui_com_supplement
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_common
+        Dependency_3: b_t_item
+    Info_208:
+      Name: ui_com_buy_res
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_common
+        Dependency_3: b_t_item
+    Info_209:
+      Name: b_com_pop_normal
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+    Info_210:
+      Name: ui_building_info_pop
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_building_atlas
+        Dependency_2: b_com_pop_normal
+    Info_211:
+      Name: b_fx_chaos_01
+      Dependencies:
+        Dependency_0: allshader
+    Info_212:
+      Name: b_fx_com_burn_01
+      Dependencies:
+        Dependency_0: allshader
+    Info_213:
+      Name: b_fx_decelerate_01
+      Dependencies:
+        Dependency_0: allshader
+    Info_214:
+      Name: b_fx_disarm_01
+      Dependencies:
+        Dependency_0: allshader
+    Info_215:
+      Name: b_fx_dizziness_01
+      Dependencies:
+        Dependency_0: allshader
+    Info_216:
+      Name: b_fx_silence_01
+      Dependencies:
+        Dependency_0: allshader
+    Info_217:
+      Name: b_fx_sneer_01
+      Dependencies:
+        Dependency_0: allshader
+    Info_218:
+      Name: b_fx_weakness_01
+      Dependencies:
+        Dependency_0: allshader
+    Info_219:
+      Name: to$icerock_03b
+      Dependencies:
+        Dependency_0: allshader
+    Info_220:
+      Name: to$mushroom_5b
+      Dependencies:
+        Dependency_0: allshader
+    Info_221:
+      Name: to$tree_28a
+      Dependencies:
+        Dependency_0: allshader
+    Info_222:
+      Name: to$grass_09a
+      Dependencies:
+        Dependency_0: allshader
+    Info_223:
+      Name: to$icerock_26a
+      Dependencies:
+        Dependency_0: allshader
+    Info_224:
+      Name: to$tree_22a
+      Dependencies:
+        Dependency_0: allshader
+    Info_225:
+      Name: to$icerock_02b
+      Dependencies:
+        Dependency_0: allshader
+    Info_226:
+      Name: to$mushroom_5a
+      Dependencies:
+        Dependency_0: allshader
+    Info_227:
+      Name: to$tree_27a
+      Dependencies:
+        Dependency_0: allshader
+    Info_228:
+      Name: to$shrub_19a
+      Dependencies:
+        Dependency_0: allshader
+    Info_229:
+      Name: to$tree_32a
+      Dependencies:
+        Dependency_0: allshader
+    Info_230:
+      Name: to$grass_08a
+      Dependencies:
+        Dependency_0: allshader
+    Info_231:
+      Name: to$icerock_25a
+      Dependencies:
+        Dependency_0: allshader
+    Info_232:
+      Name: to$icerock_01b
+      Dependencies:
+        Dependency_0: allshader
+    Info_233:
+      Name: to$icerock_30a
+      Dependencies:
+        Dependency_0: allshader
+    Info_234:
+      Name: to$tree_26a
+      Dependencies:
+        Dependency_0: allshader
+    Info_235:
+      Name: to$shrub_18a
+      Dependencies:
+        Dependency_0: allshader
+    Info_236:
+      Name: to$tree_31a
+      Dependencies:
+        Dependency_0: allshader
+    Info_237:
+      Name: to$grass_07a
+      Dependencies:
+        Dependency_0: allshader
+    Info_238:
+      Name: to$grass_12a
+      Dependencies:
+        Dependency_0: allshader
+    Info_239:
+      Name: to$icerock_29a
+      Dependencies:
+        Dependency_0: allshader
+    Info_240:
+      Name: to$tree_25a
+      Dependencies:
+        Dependency_0: allshader
+    Info_241:
+      Name: to$icerock_05b
+      Dependencies:
+        Dependency_0: allshader
+    Info_242:
+      Name: to$shrub_17a
+      Dependencies:
+        Dependency_0: allshader
+    Info_243:
+      Name: to$tree_30a
+      Dependencies:
+        Dependency_0: allshader
+    Info_244:
+      Name: to$grass_01e
+      Dependencies:
+        Dependency_0: allshader
+    Info_245:
+      Name: to$grass_11a
+      Dependencies:
+        Dependency_0: allshader
+    Info_246:
+      Name: to$icerock_28a
+      Dependencies:
+        Dependency_0: allshader
+    Info_247:
+      Name: to$tree_24a
+      Dependencies:
+        Dependency_0: allshader
+    Info_248:
+      Name: to$icerock_04b
+      Dependencies:
+        Dependency_0: allshader
+    Info_249:
+      Name: to$shrub_16a
+      Dependencies:
+        Dependency_0: allshader
+    Info_250:
+      Name: to$tree_29a
+      Dependencies:
+        Dependency_0: allshader
+    Info_251:
+      Name: to$grass_10a
+      Dependencies:
+        Dependency_0: allshader
+    Info_252:
+      Name: to$icerock_27a
+      Dependencies:
+        Dependency_0: allshader
+    Info_253:
+      Name: to$tree_23a
+      Dependencies:
+        Dependency_0: allshader
+    Info_254:
+      Name: alliance_tower_02
+      Dependencies:
+        Dependency_0: wm_troop
+        Dependency_1: allshader
+        Dependency_2: spriterendernoztest
+        Dependency_3: map_alliance_tower_icon
+    Info_255:
+      Name: alliance_tower_01
+      Dependencies:
+        Dependency_0: wm_troop
+        Dependency_1: allshader
+        Dependency_2: spriterendernoztest
+        Dependency_3: map_alliance_tower_icon
+    Info_256:
+      Name: ui_building_create_atlas
+      Dependencies: {}
+    Info_257:
+      Name: to$hudie02a
+      Dependencies:
+        Dependency_0: allshader
+    Info_258:
+      Name: to$ice_01a
+      Dependencies:
+        Dependency_0: allshader
+    Info_259:
+      Name: fx_combuff_01
+      Dependencies:
+        Dependency_0: allshader
+    Info_260:
+      Name: fx_combuff_02
+      Dependencies:
+        Dependency_0: allshader
+    Info_261:
+      Name: fx_combuff_03
+      Dependencies:
+        Dependency_0: allshader
+    Info_262:
+      Name: fx_combuff_04
+      Dependencies:
+        Dependency_0: allshader
+    Info_263:
+      Name: ui_task_claim_light_2
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: ui_task_btn_claim_tex
+    Info_264:
+      Name: ui_task_claim_light
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: ui_task_btn_claim_light_tex
+    Info_265:
+      Name: ui_task_atlas
+      Dependencies: {}
+    Info_266:
+      Name: ui_add_energy
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_common
+    Info_267:
+      Name: ui_player_operation
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: top_map_atlas
+        Dependency_2: ui_common_atlas_v2_6
+        Dependency_3: ui_common
+    Info_268:
+      Name: ui_schedule
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_mail_banner_01
+        Dependency_3: b_t_item
+    Info_269:
+      Name: ui_map_position_select
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+    Info_270:
+      Name: ui_task_btn_claim_light_tex
+      Dependencies: {}
+    Info_271:
+      Name: ui_glow_tex2
+      Dependencies: {}
+    Info_272:
+      Name: b_com_btn_tech
+      Dependencies:
+        Dependency_0: ui_common
+        Dependency_1: icon_tech_atlas
+    Info_273:
+      Name: light_spot_add
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: light_spot_tex
+    Info_274:
+      Name: ui_task_btn_claim_tex
+      Dependencies: {}
+    Info_275:
+      Name: ui_soft_mask_horizontal_62
+      Dependencies: {}
+    Info_276:
+      Name: ui_soft_mask_circle_62
+      Dependencies: {}
+    Info_277:
+      Name: ui_soft_mask_126
+      Dependencies: {}
+    Info_278:
+      Name: warrior01
+      Dependencies:
+        Dependency_0: allshader
+    Info_279:
+      Name: irisblur
+      Dependencies:
+        Dependency_0: allshader
+    Info_280:
+      Name: ui_alliance_member_atlas
+      Dependencies: {}
+    Info_281:
+      Name: ui_alliance_member
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: icon_player_head_atlas
+        Dependency_3: b_com_btn_normal
+        Dependency_4: b_com_btn_side_tab
+        Dependency_5: b_com_full_top_back
+        Dependency_6: common_ui_full_bg
+        Dependency_7: ui_alliance_member_atlas
+        Dependency_8: ui_soft_mask_bottom_62
+        Dependency_9: b_com_empty_tip
+    Info_282:
+      Name: urplit
+      Dependencies:
+        Dependency_0: allshader
+    Info_283:
+      Name: urpcastlelit
+      Dependencies:
+        Dependency_0: allshader
+    Info_284:
+      Name: ui_mall
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common
+        Dependency_3: b_com_btn_item
+        Dependency_4: b_com_btn_side_tab
+        Dependency_5: b_com_full_top_back
+        Dependency_6: ui_bag_atlas
+        Dependency_7: ui_bag_round_02
+        Dependency_8: icon_item_atlas
+        Dependency_9: ui_bag_round_03
+        Dependency_10: ui_glow
+        Dependency_11: common_ui_full_bg
+        Dependency_12: ui_mall_atlas
+    Info_285:
+      Name: ui_alliance_land
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_common
+        Dependency_3: ui_com_alliance_flag_atlas
+    Info_286:
+      Name: ui_world_search_banner_monster_elit
+      Dependencies: {}
+    Info_287:
+      Name: ui_world_search_atlas
+      Dependencies: {}
+    Info_288:
+      Name: ui_world_search_banner_monster
+      Dependencies: {}
+    Info_289:
+      Name: ui_world_search_banner_res_4
+      Dependencies: {}
+    Info_290:
+      Name: ui_world_search_banner_boss_camp
+      Dependencies: {}
+    Info_291:
+      Name: ui_world_search_banner_res_3
+      Dependencies: {}
+    Info_292:
+      Name: ui_world_search_banner_boss
+      Dependencies: {}
+    Info_293:
+      Name: ui_world_search_banner_res_2
+      Dependencies: {}
+    Info_294:
+      Name: ui_world_search_banner_res_1
+      Dependencies: {}
+    Info_295:
+      Name: ui_soft_mask_bottom_62
+      Dependencies: {}
+    Info_296:
+      Name: tiltshift
+      Dependencies:
+        Dependency_0: allshader
+    Info_297:
+      Name: to$icebuildings_06a
+      Dependencies:
+        Dependency_0: allshader
+    Info_298:
+      Name: to$icebuildings_21a
+      Dependencies:
+        Dependency_0: allshader
+    Info_299:
+      Name: to$icebuildings_05a
+      Dependencies:
+        Dependency_0: allshader
+    Info_300:
+      Name: to$icebuildings_20a
+      Dependencies:
+        Dependency_0: allshader
+    Info_301:
+      Name: to$icebuildings_04a
+      Dependencies:
+        Dependency_0: allshader
+    Info_302:
+      Name: to$icebuildings_10a
+      Dependencies:
+        Dependency_0: allshader
+    Info_303:
+      Name: to$icebuildings_03a
+      Dependencies:
+        Dependency_0: allshader
+    Info_304:
+      Name: to$icebuildings_08a
+      Dependencies:
+        Dependency_0: allshader
+    Info_305:
+      Name: to$village_01a
+      Dependencies:
+        Dependency_0: allshader
+    Info_306:
+      Name: to$icebuildings_02a
+      Dependencies:
+        Dependency_0: allshader
+    Info_307:
+      Name: to$icebuildings_07a
+      Dependencies:
+        Dependency_0: allshader
+    Info_308:
+      Name: to$terrain09
+      Dependencies:
+        Dependency_0: allshader
+    Info_309:
+      Name: to$icebuildings_01a
+      Dependencies:
+        Dependency_0: allshader
+    Info_310:
+      Name: warrior02
+      Dependencies:
+        Dependency_0: allshader
+    Info_311:
+      Name: warrior03
+      Dependencies:
+        Dependency_0: allshader
+    Info_312:
+      Name: warrior04
+      Dependencies:
+        Dependency_0: allshader
+    Info_313:
+      Name: warrior05
+      Dependencies:
+        Dependency_0: allshader
+    Info_314:
+      Name: ui_world_pop_banner_empty
+      Dependencies: {}
+    Info_315:
+      Name: ui_world_pop_banner_res_building
+      Dependencies: {}
+    Info_316:
+      Name: ui_world_pop_banner_monster
+      Dependencies: {}
+    Info_317:
+      Name: ui_world_pop_banner_mist
+      Dependencies: {}
+    Info_318:
+      Name: to$ice_01b
+      Dependencies:
+        Dependency_0: allshader
+    Info_319:
+      Name: to$ice_01c
+      Dependencies:
+        Dependency_0: allshader
+    Info_320:
+      Name: ui_alliance_skill
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common
+        Dependency_3: b_com_btn_normal
+        Dependency_4: ui_glow
+        Dependency_5: b_com_pop_normal
+        Dependency_6: light_spot_add
+        Dependency_7: icon_league_skill_atlas
+        Dependency_8: ui_alliance_skill_atlas
+        Dependency_9: ui_soft_mask_right_62
+    Info_321:
+      Name: ui_alliance_technology_research
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_com_btn_normal
+        Dependency_3: b_com_full_top_back
+        Dependency_4: icon_item_atlas
+        Dependency_5: ui_building_atlas
+    Info_322:
+      Name: ui_alliance_technology
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common
+        Dependency_3: b_com_btn_side_tab
+        Dependency_4: b_com_full_top_back
+        Dependency_5: icon_tab_btn_atlas
+        Dependency_6: common_ui_full_bg
+        Dependency_7: b_com_btn_tech
+        Dependency_8: ui_soft_mask_horizontal_62
+        Dependency_9: ui_alliance_technology_atlas
+        Dependency_10: icon_league_skill_atlas
+    Info_323:
+      Name: ui_alliance_warehouse
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_common
+        Dependency_3: icon_player_head_atlas
+        Dependency_4: b_com_full_top_back
+        Dependency_5: common_ui_full_bg
+    Info_324:
+      Name: ui_city_buff
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_common
+    Info_325:
+      Name: ui_gain
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_326:
+      Name: fx_zs03_atk02
+      Dependencies:
+        Dependency_0: allshader
+    Info_327:
+      Name: fx_zs03_atk01
+      Dependencies:
+        Dependency_0: allshader
+    Info_328:
+      Name: fx_zs01_atk02
+      Dependencies:
+        Dependency_0: allshader
+    Info_329:
+      Name: fx_zs01_atk01
+      Dependencies:
+        Dependency_0: allshader
+    Info_330:
+      Name: fx_zs05_atk02
+      Dependencies:
+        Dependency_0: allshader
+    Info_331:
+      Name: fx_zs05_atk01
+      Dependencies:
+        Dependency_0: allshader
+    Info_332:
+      Name: mulan
+      Dependencies:
+        Dependency_0: allshader
+    Info_333:
+      Name: ui_alliance_appointment_pop
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_com_pop_normal
+        Dependency_3: ui_soft_mask_bottom_62
+    Info_334:
+      Name: citywarrior05
+      Dependencies: {}
+    Info_335:
+      Name: ui_alliance_team_set
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: icon_player_head_atlas
+        Dependency_3: b_com_btn_normal
+        Dependency_4: b_com_pop_normal
+        Dependency_5: ui_soft_mask_bottom_62
+        Dependency_6: ui_alliance_team_set_atlas
+    Info_336:
+      Name: ui_alliance_team_set_atlas
+      Dependencies: {}
+    Info_337:
+      Name: ui_alliance_appointment_atlas
+      Dependencies: {}
+    Info_338:
+      Name: ui_alliance_appointment_leader_bg
+      Dependencies: {}
+    Info_339:
+      Name: to$terrain10
+      Dependencies:
+        Dependency_0: allshader
+    Info_340:
+      Name: ui_building_create
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common
+        Dependency_3: b_unread_tip
+        Dependency_4: ui_building_create_atlas
+    Info_341:
+      Name: ui_prosperity
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_342:
+      Name: mulanhigh
+      Dependencies: {}
+    Info_343:
+      Name: ui_icon_fly
+      Dependencies:
+        Dependency_0: b_com_btn_item
+        Dependency_1: b_t_fx_ui_harvest_gem
+        Dependency_2: b_t_fx_ui_harvest_gold
+        Dependency_3: b_t_fx_ui_harvest_rock
+        Dependency_4: b_t_fx_ui_harvest_water
+        Dependency_5: b_t_fx_ui_harvest_wood
+    Info_344:
+      Name: b_t_fx_ui_harvest_gem
+      Dependencies: {}
+    Info_345:
+      Name: b_t_fx_ui_harvest_gold
+      Dependencies: {}
+    Info_346:
+      Name: b_t_fx_ui_harvest_rock
+      Dependencies: {}
+    Info_347:
+      Name: b_t_fx_ui_harvest_water
+      Dependencies: {}
+    Info_348:
+      Name: b_t_fx_ui_harvest_wood
+      Dependencies: {}
+    Info_349:
+      Name: ui_alliance_contribution_rank
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_common
+        Dependency_3: b_t_item
+        Dependency_4: b_com_full_top_back
+        Dependency_5: common_ui_full_bg
+        Dependency_6: ui_alliance_contribution_rank_atlas
+        Dependency_7: role_00
+    Info_350:
+      Name: ui_hamlet_operate
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_351:
+      Name: ui_alliance_technology_atlas
+      Dependencies: {}
+    Info_352:
+      Name: icon_league_skill_atlas
+      Dependencies: {}
+    Info_353:
+      Name: to$icebuildings_27a
+      Dependencies:
+        Dependency_0: allshader
+    Info_354:
+      Name: to$icebuildings_26a
+      Dependencies:
+        Dependency_0: allshader
+    Info_355:
+      Name: to$terrain11
+      Dependencies:
+        Dependency_0: allshader
+    Info_356:
+      Name: to$icebuildings_25a
+      Dependencies:
+        Dependency_0: allshader
+    Info_357:
+      Name: to$icebuildings_30a
+      Dependencies:
+        Dependency_0: allshader
+    Info_358:
+      Name: to$icebuildings_24a
+      Dependencies:
+        Dependency_0: allshader
+    Info_359:
+      Name: to$icebuildings_29a
+      Dependencies:
+        Dependency_0: allshader
+    Info_360:
+      Name: to$icebuildings_28a
+      Dependencies:
+        Dependency_0: allshader
+    Info_361:
+      Name: to$icebuildings_22a
+      Dependencies:
+        Dependency_0: allshader
+    Info_362:
+      Name: to$fire02
+      Dependencies:
+        Dependency_0: allshader
+    Info_363:
+      Name: ui_technology_tip_detail
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_com_btn_normal
+        Dependency_3: b_com_pop_normal
+        Dependency_4: ui_soft_mask_bottom_62
+    Info_364:
+      Name: ui_alliance_skill_atlas
+      Dependencies: {}
+    Info_365:
+      Name: spencer
+      Dependencies:
+        Dependency_0: allshader
+    Info_366:
+      Name: slash
+      Dependencies: {}
+    Info_367:
+      Name: ui_mail_atlas
+      Dependencies: {}
+    Info_368:
+      Name: to$fx_sence_wall_02a
+      Dependencies:
+        Dependency_0: allshader
+    Info_369:
+      Name: to$wall_01a
+      Dependencies:
+        Dependency_0: allshader
+    Info_370:
+      Name: to$terrain12
+      Dependencies:
+        Dependency_0: allshader
+    Info_371:
+      Name: to$icebuildings_31a
+      Dependencies:
+        Dependency_0: allshader
+    Info_372:
+      Name: ui_reward_atlas
+      Dependencies: {}
+    Info_373:
+      Name: star_tex
+      Dependencies: {}
+    Info_374:
+      Name: star
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: star_tex
+    Info_375:
+      Name: ui_repair_alliance_building
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: ui_world_search_atlas
+        Dependency_3: ui_world_search_banner_boss_camp
+    Info_376:
+      Name: to$terrain13
+      Dependencies:
+        Dependency_0: allshader
+    Info_377:
+      Name: icon_hero_head_atlas
+      Dependencies: {}
+    Info_378:
+      Name: icon_hero_skill_atlas
+      Dependencies: {}
+    Info_379:
+      Name: ui_hero_detail_atlas
+      Dependencies: {}
+    Info_380:
+      Name: ui_hero_power_info
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+    Info_381:
+      Name: fx_hero_mulan_skillzidan
+      Dependencies:
+        Dependency_0: allshader
+    Info_382:
+      Name: fx_hero_mulan_skill
+      Dependencies:
+        Dependency_0: allshader
+    Info_383:
+      Name: fx_hero_mulan_free
+      Dependencies:
+        Dependency_0: allshader
+    Info_384:
+      Name: buildingdestory2
+      Dependencies: {}
+    Info_385:
+      Name: buildingdestory1
+      Dependencies: {}
+    Info_386:
+      Name: ui_player_name
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_common
+    Info_387:
+      Name: ui_soft_mask_round
+      Dependencies: {}
+    Info_388:
+      Name: ui_chat_friend_atals
+      Dependencies: {}
+    Info_389:
+      Name: ui_hero
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_city_atlas
+        Dependency_3: ui_common
+        Dependency_4: icon_item_atlas
+        Dependency_5: icon_hero_head_atlas
+        Dependency_6: icon_hero_skill_atlas
+        Dependency_7: ui_hero_detail_atlas
+    Info_390:
+      Name: spencerhigh
+      Dependencies: {}
+    Info_391:
+      Name: b_com_btn_cost
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_unread_tip
+    Info_392:
+      Name: to$icerock_33a
+      Dependencies:
+        Dependency_0: allshader
+    Info_393:
+      Name: to$icerock_32a
+      Dependencies:
+        Dependency_0: allshader
+    Info_394:
+      Name: to$icerock_31b
+      Dependencies:
+        Dependency_0: allshader
+    Info_395:
+      Name: to$icerock_31a
+      Dependencies:
+        Dependency_0: allshader
+    Info_396:
+      Name: ui_battle_info_pop
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: icon_player_head_atlas
+        Dependency_3: b_com_pop_normal
+    Info_397:
+      Name: ui_boss_result
+      Dependencies:
+        Dependency_0: font
+    Info_398:
+      Name: ui_world_boss
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_big_map_atlas
+        Dependency_3: ui_common
+        Dependency_4: icon_player_head_atlas
+    Info_399:
+      Name: ui_world_boss_info
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_city_atlas
+        Dependency_3: ui_common
+        Dependency_4: b_com_btn_item
+    Info_400:
+      Name: shooter01
+      Dependencies:
+        Dependency_0: allshader
+    Info_401:
+      Name: ui_hero_fragment_exchange_atlas
+      Dependencies: {}
+    Info_402:
+      Name: ui_hero_fragment_exchange
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_com_btn_item
+        Dependency_3: b_com_btn_normal
+        Dependency_4: b_com_pop_small
+        Dependency_5: icon_item_atlas
+        Dependency_6: ui_hero_fragment_exchange_atlas
+    Info_403:
+      Name: ui_battle_debug
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+    Info_404:
+      Name: mapobstacle
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: slash
+    Info_405:
+      Name: monster_shooter
+      Dependencies:
+        Dependency_0: allshader
+    Info_406:
+      Name: fx_hero_spencer_skill
+      Dependencies:
+        Dependency_0: allshader
+    Info_407:
+      Name: fx_hero_spencer_atk
+      Dependencies:
+        Dependency_0: allshader
+    Info_408:
+      Name: fx_hero_spencer_skillzidan
+      Dependencies:
+        Dependency_0: allshader
+    Info_409:
+      Name: ui_world_pop_tile_info
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: ui_world_search_atlas
+        Dependency_3: ui_world_pop_banner_empty
+    Info_410:
+      Name: ui_world_pop_banner_player
+      Dependencies: {}
+    Info_411:
+      Name: ui_world_pop_city_info
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: icon_player_head_atlas
+        Dependency_3: ui_world_search_atlas
+        Dependency_4: ui_world_pop_banner_player
+    Info_412:
+      Name: ui_world_pop_monster_info
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_com_btn_item
+        Dependency_3: ui_world_search_atlas
+        Dependency_4: ui_world_pop_banner_monster
+    Info_413:
+      Name: ui_world_pop_collection_info
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: ui_world_search_atlas
+        Dependency_3: ui_world_pop_banner_res_building
+    Info_414:
+      Name: normal_big_goldmine_01
+      Dependencies:
+        Dependency_0: wm_troop
+        Dependency_1: font
+        Dependency_2: allshader
+        Dependency_3: spriterendernoztest
+        Dependency_4: ui_world_building_state_atlas
+        Dependency_5: map_gold_icon
+    Info_415:
+      Name: normal_big_loggingyard_01
+      Dependencies:
+        Dependency_0: wm_troop
+        Dependency_1: font
+        Dependency_2: allshader
+        Dependency_3: spriterendernoztest
+        Dependency_4: ui_world_building_state_atlas
+        Dependency_5: map_wood_icon
+    Info_416:
+      Name: normal_big_stone_01
+      Dependencies:
+        Dependency_0: wm_troop
+        Dependency_1: font
+        Dependency_2: allshader
+        Dependency_3: spriterendernoztest
+        Dependency_4: ui_world_building_state_atlas
+        Dependency_5: map_stone_icon
+    Info_417:
+      Name: aurora
+      Dependencies:
+        Dependency_0: allshader
+    Info_418:
+      Name: shooter02
+      Dependencies:
+        Dependency_0: allshader
+    Info_419:
+      Name: shooter04
+      Dependencies:
+        Dependency_0: allshader
+    Info_420:
+      Name: building_0002
+      Dependencies: {}
+    Info_421:
+      Name: building_0001
+      Dependencies: {}
+    Info_422:
+      Name: world_map_monster_0001
+      Dependencies: {}
+    Info_423:
+      Name: monster_warrior
+      Dependencies:
+        Dependency_0: allshader
+    Info_424:
+      Name: fx_monster_st01_atk01
+      Dependencies:
+        Dependency_0: allshader
+    Info_425:
+      Name: fx_st01_atk01
+      Dependencies:
+        Dependency_0: allshader
+    Info_426:
+      Name: fx_st02_atk01
+      Dependencies:
+        Dependency_0: allshader
+    Info_427:
+      Name: ui_hero_star_info
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: ui_hero_ster_info_atlas
+    Info_428:
+      Name: ui_hero_ster_info_atlas
+      Dependencies: {}
+    Info_429:
+      Name: shooter03
+      Dependencies:
+        Dependency_0: allshader
+    Info_430:
+      Name: to$icebuildings_17a
+      Dependencies:
+        Dependency_0: allshader
+    Info_431:
+      Name: to$icebuildings_16a
+      Dependencies:
+        Dependency_0: allshader
+    Info_432:
+      Name: to$icebuildings_15a
+      Dependencies:
+        Dependency_0: allshader
+    Info_433:
+      Name: to$terrain14
+      Dependencies:
+        Dependency_0: allshader
+    Info_434:
+      Name: to$icebuildings_19a
+      Dependencies:
+        Dependency_0: allshader
+    Info_435:
+      Name: to$icebuildings_18a
+      Dependencies:
+        Dependency_0: allshader
+    Info_436:
+      Name: to$wall_boss01a
+      Dependencies:
+        Dependency_0: allshader
+    Info_437:
+      Name: ui_world_gift_info
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: b_com_btn_item
+        Dependency_3: ui_world_search_atlas
+        Dependency_4: ui_world_pop_banner_res_building
+    Info_438:
+      Name: mapdragtarget
+      Dependencies:
+        Dependency_0: wm_troop
+        Dependency_1: font
+        Dependency_2: ui_common
+        Dependency_3: ui_world_battle_atlas
+    Info_439:
+      Name: ui_main_atlas
+      Dependencies: {}
+    Info_440:
+      Name: fx_niose_04
+      Dependencies:
+        Dependency_0: allshader
+    Info_441:
+      Name: ui_alliance_contribution_rank_atlas
+      Dependencies: {}
+    Info_442:
+      Name: role_00
+      Dependencies: {}
+    Info_443:
+      Name: fx_hero_spencer_free
+      Dependencies:
+        Dependency_0: allshader
+    Info_444:
+      Name: wakan
+      Dependencies:
+        Dependency_0: allshader
+    Info_445:
+      Name: aurorahigh
+      Dependencies: {}
+    Info_446:
+      Name: monster_magic
+      Dependencies:
+        Dependency_0: allshader
+    Info_447:
+      Name: shooter05
+      Dependencies:
+        Dependency_0: allshader
+    Info_448:
+      Name: fx_monster_zs01_atk01
+      Dependencies:
+        Dependency_0: allshader
+    Info_449:
+      Name: fx_monster_zs01_atk02
+      Dependencies:
+        Dependency_0: allshader
+    Info_450:
+      Name: ui_mall_atlas
+      Dependencies: {}
+    Info_451:
+      Name: ui_player_head
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+        Dependency_2: ui_common
+        Dependency_3: icon_player_head_atlas
+    Info_452:
+      Name: ui_search_loc_atlas
+      Dependencies: {}
+    Info_453:
+      Name: ui_system_notice_atlas
+      Dependencies: {}
+    Info_454:
+      Name: ui_system_notice
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_soft_mask_horizontal_62
+        Dependency_2: ui_system_notice_atlas
+    Info_455:
+      Name: npccamp
+      Dependencies:
+        Dependency_0: wm_troop
+        Dependency_1: font
+        Dependency_2: allshader
+        Dependency_3: spriterendernoztest
+        Dependency_4: ui_world_building_state_atlas
+        Dependency_5: map_gold_icon
+    Info_456:
+      Name: to$tree_22b
+      Dependencies:
+        Dependency_0: allshader
+    Info_457:
+      Name: to$tree_23b
+      Dependencies:
+        Dependency_0: allshader
+    Info_458:
+      Name: to$tree_26b
+      Dependencies:
+        Dependency_0: allshader
+    Info_459:
+      Name: to$tree_27b
+      Dependencies:
+        Dependency_0: allshader
+    Info_460:
+      Name: ui_building_speedup
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_com_btn_normal
+        Dependency_3: ui_glow
+        Dependency_4: b_com_pop_normal
+        Dependency_5: ui_building_speedup_atlas
+    Info_461:
+      Name: ui_building_speedup_atlas
+      Dependencies: {}
+    Info_462:
+      Name: ui_world_building_title
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_world_building_title_atlas
+    Info_463:
+      Name: ui_world_building_title_atlas
+      Dependencies: {}
+    Info_464:
+      Name: fx_hero_mulan_atkzidan
+      Dependencies:
+        Dependency_0: allshader
+    Info_465:
+      Name: globalmap2d_7
+      Dependencies:
+        Dependency_0: top_map_2d_element
+    Info_466:
+      Name: globalmap2d_element
+      Dependencies:
+        Dependency_0: top_map_atlas
+    Info_467:
+      Name: globalmap2d_6
+      Dependencies:
+        Dependency_0: top_map_2d_element
+    Info_468:
+      Name: globalmap2d_13
+      Dependencies:
+        Dependency_0: top_map_2d_element
+    Info_469:
+      Name: globalmap2delement
+      Dependencies:
+        Dependency_0: top_map_atlas
+        Dependency_1: globalmap2d_element
+    Info_470:
+      Name: globalmap2d_12
+      Dependencies:
+        Dependency_0: top_map_2d_element
+    Info_471:
+      Name: globalmap2d_9
+      Dependencies:
+        Dependency_0: top_map_2d_element
+    Info_472:
+      Name: globalmap2d_11
+      Dependencies:
+        Dependency_0: top_map_2d_element
+    Info_473:
+      Name: globalmap2d_8
+      Dependencies:
+        Dependency_0: top_map_2d_element
+    Info_474:
+      Name: globalmap2d_10
+      Dependencies:
+        Dependency_0: top_map_2d_element
+    Info_475:
+      Name: to$icebuildings_37a
+      Dependencies:
+        Dependency_0: allshader
+    Info_476:
+      Name: to$icebuildings_13a
+      Dependencies:
+        Dependency_0: allshader
+    Info_477:
+      Name: to$icebuildings_35a
+      Dependencies:
+        Dependency_0: allshader
+    Info_478:
+      Name: to$icebuildings_32a
+      Dependencies:
+        Dependency_0: allshader
+    Info_479:
+      Name: to$icebuildings_38a
+      Dependencies:
+        Dependency_0: allshader
+    Info_480:
+      Name: to$icebuildings_14a
+      Dependencies:
+        Dependency_0: allshader
+    Info_481:
+      Name: b_com_pop_tiny
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+    Info_482:
+      Name: to$icebuildings_36a
+      Dependencies:
+        Dependency_0: allshader
+    Info_483:
+      Name: to$icebuildings_12a
+      Dependencies:
+        Dependency_0: allshader
+    Info_484:
+      Name: to$icebuildings_34a
+      Dependencies:
+        Dependency_0: allshader
+    Info_485:
+      Name: to$icebuildings_39a
+      Dependencies:
+        Dependency_0: allshader
+    Info_486:
+      Name: global_map_atlas
+      Dependencies: {}
+    Info_487:
+      Name: to$terrain15
+      Dependencies:
+        Dependency_0: allshader
+    Info_488:
+      Name: to$xuanzhuana
+      Dependencies:
+        Dependency_0: allshader
+    Info_489:
+      Name: top_map_2d_res
+      Dependencies:
+        Dependency_0: top_map_2d_element
+    Info_490:
+      Name: top_map_2d_element
+      Dependencies:
+        Dependency_0: global_map_atlas
+        Dependency_1: topmap_sprite
+    Info_491:
+      Name: ui_world_pop_banner_lighthouse
+      Dependencies: {}
+    Info_492:
+      Name: ui_world_pop_fog_lighthouse
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_com_btn_item
+        Dependency_3: b_com_btn_normal
+        Dependency_4: ui_world_search_atlas
+        Dependency_5: ui_world_pop_banner_lighthouse
+    Info_493:
+      Name: ui_world_pop_fog_found_reward
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_com_btn_item
+        Dependency_3: b_com_btn_normal
+        Dependency_4: ui_world_search_atlas
+        Dependency_5: ui_world_pop_banner_village
+    Info_494:
+      Name: ui_world_pop_banner_village
+      Dependencies: {}
+    Info_495:
+      Name: topmap_sprite
+      Dependencies: {}
+    Info_496:
+      Name: city_shield
+      Dependencies:
+        Dependency_0: allshader
+    Info_497:
+      Name: ui_alliance_atlas
+      Dependencies: {}
+    Info_498:
+      Name: city_select
+      Dependencies:
+        Dependency_0: ui_world_building_title_atlas
+    Info_499:
+      Name: spriterendernoztest
+      Dependencies:
+        Dependency_0: allshader
+    Info_500:
+      Name: ui_alliance_bg
+      Dependencies: {}
+    Info_501:
+      Name: magic01
+      Dependencies:
+        Dependency_0: allshader
+    Info_502:
+      Name: magic02
+      Dependencies:
+        Dependency_0: allshader
+    Info_503:
+      Name: magic03
+      Dependencies:
+        Dependency_0: allshader
+    Info_504:
+      Name: ui_world_building_state
+      Dependencies:
+        Dependency_0: light_bg
+        Dependency_1: ui_world_building_state_atlas
+    Info_505:
+      Name: ui_world_building_state_atlas
+      Dependencies: {}
+    Info_506:
+      Name: troop_ui_boss
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_world_building_title_atlas
+        Dependency_2: spriterendernoztest
+    Info_507:
+      Name: troop_ui_village
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_world_building_title_atlas
+        Dependency_2: spriterendernoztest
+    Info_508:
+      Name: troop_ui_npc
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_world_building_title_atlas
+        Dependency_2: spriterendernoztest
+    Info_509:
+      Name: troop_ui_level
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_world_building_title_atlas
+        Dependency_2: spriterendernoztest
+    Info_510:
+      Name: troop_ui_common
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_world_building_title_atlas
+        Dependency_2: spriterendernoztest
+    Info_511:
+      Name: fx_hero_aurora_buff
+      Dependencies:
+        Dependency_0: allshader
+    Info_512:
+      Name: fx_hero_mulan_hit
+      Dependencies:
+        Dependency_0: allshader
+    Info_513:
+      Name: troop_ui_camp
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_com_alliance_flag_atlas
+        Dependency_2: ui_world_building_title_atlas
+        Dependency_3: spriterendernoztest
+    Info_514:
+      Name: to$buildings_07a_01
+      Dependencies:
+        Dependency_0: allshader
+    Info_515:
+      Name: fx_hero_spencer_hit
+      Dependencies:
+        Dependency_0: allshader
+    Info_516:
+      Name: ui_system_help_pop
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: b_com_pop_small
+    Info_517:
+      Name: fx_hero_aurora_atk
+      Dependencies:
+        Dependency_0: allshader
+    Info_518:
+      Name: fx_hero_aurora_skill
+      Dependencies:
+        Dependency_0: allshader
+    Info_519:
+      Name: ui_fog_detail_pop
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: icon_player_head_atlas
+        Dependency_3: b_com_btn_item
+        Dependency_4: ui_building_atlas
+        Dependency_5: b_com_pop_normal_sort
+        Dependency_6: b_com_empty_tip
+    Info_520:
+      Name: icon_tab_btn_pop_atlas
+      Dependencies: {}
+    Info_521:
+      Name: b_com_pop_normal_sort
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: icon_tab_btn_pop_atlas
+    Info_522:
+      Name: b_com_empty_tip
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+    Info_523:
+      Name: ui_confirm_cost
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_unread_tip
+        Dependency_3: b_com_pop_small
+    Info_524:
+      Name: ui_fog_box
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: light_spot_tex
+        Dependency_2: ui_fog_box_tex
+    Info_525:
+      Name: fx_niose_04_pbar
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: ui_shader_mask_pbar
+    Info_526:
+      Name: ui_fog_atlas
+      Dependencies: {}
+    Info_527:
+      Name: ui_shader_mask_pbar
+      Dependencies: {}
+    Info_528:
+      Name: ui_fog_box_tex
+      Dependencies: {}
+    Info_529:
+      Name: icon_tech_atlas
+      Dependencies: {}
+    Info_530:
+      Name: hugo
+      Dependencies:
+        Dependency_0: allshader
+    Info_531:
+      Name: to$icebuildings_40a
+      Dependencies:
+        Dependency_0: allshader
+    Info_532:
+      Name: ui_rank_atlas
+      Dependencies: {}
+    Info_533:
+      Name: to$terrain16
+      Dependencies:
+        Dependency_0: allshader
+    Info_534:
+      Name: b_com_alliance_flag
+      Dependencies:
+        Dependency_0: ui_com_alliance_flag_atlas
+    Info_535:
+      Name: to$icebuildings_41a
+      Dependencies:
+        Dependency_0: allshader
+    Info_536:
+      Name: to$icebuildings_40b
+      Dependencies:
+        Dependency_0: allshader
+    Info_537:
+      Name: fx_hero_wakan_hit
+      Dependencies:
+        Dependency_0: allshader
+    Info_538:
+      Name: fx_hero_wakan_skill
+      Dependencies:
+        Dependency_0: allshader
+    Info_539:
+      Name: fx_hero_wakan_zidan
+      Dependencies:
+        Dependency_0: allshader
+    Info_540:
+      Name: manzin
+      Dependencies:
+        Dependency_0: allshader
+    Info_541:
+      Name: castle_dust
+      Dependencies:
+        Dependency_0: allshader
+    Info_542:
+      Name: hero_detail_bg_2
+      Dependencies: {}
+    Info_543:
+      Name: ui_fog_explore
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: allshader
+        Dependency_2: ui_common
+        Dependency_3: b_com_btn_item
+        Dependency_4: b_com_full_top_back
+        Dependency_5: ui_glow
+        Dependency_6: common_ui_full_bg
+        Dependency_7: fx_niose_04
+        Dependency_8: role_00
+        Dependency_9: ui_fog_box
+        Dependency_10: fx_niose_04_pbar
+        Dependency_11: ui_fog_atlas
+    Info_544:
+      Name: magic05
+      Dependencies:
+        Dependency_0: allshader
+    Info_545:
+      Name: hero_detail_bg_1
+      Dependencies: {}
+    Info_546:
+      Name: hero_detail_bg_4
+      Dependencies: {}
+    Info_547:
+      Name: hero_detail_bg_3
+      Dependencies: {}
+    Info_548:
+      Name: magic04
+      Dependencies:
+        Dependency_0: allshader
+    Info_549:
+      Name: to$icebuildings_41c
+      Dependencies:
+        Dependency_0: allshader
+    Info_550:
+      Name: to$icebuildings_41b
+      Dependencies: {}
+    Info_551:
+      Name: to$icebuildings_40d
+      Dependencies:
+        Dependency_0: allshader
+    Info_552:
+      Name: ui_troop_choose
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: ui_world_search_atlas
+        Dependency_3: icon_hero_head_atlas
+        Dependency_4: ui_troop_choose_atlas
+    Info_553:
+      Name: ui_world_battle_atlas
+      Dependencies: {}
+    Info_554:
+      Name: map_city_icon
+      Dependencies: {}
+    Info_555:
+      Name: ui_farm_icon_atlas
+      Dependencies: {}
+    Info_556:
+      Name: map_gold_icon
+      Dependencies: {}
+    Info_557:
+      Name: map_wood_icon
+      Dependencies: {}
+    Info_558:
+      Name: map_water_icon
+      Dependencies: {}
+    Info_559:
+      Name: map_stone_icon
+      Dependencies: {}
+    Info_560:
+      Name: map_monster
+      Dependencies: {}
+    Info_561:
+      Name: map_army
+      Dependencies: {}
+    Info_562:
+      Name: map_beacon_icon_complete
+      Dependencies: {}
+    Info_563:
+      Name: map_beacon_icon
+      Dependencies: {}
+    Info_564:
+      Name: map_icon
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: icon_player_head_atlas
+        Dependency_2: global_map_atlas
+        Dependency_3: spriterendernoztest
+        Dependency_4: map_city_icon
+        Dependency_5: map_beacon_icon_complete
+        Dependency_6: map_beacon_icon
+        Dependency_7: map_hamlet_icon
+        Dependency_8: map_gate_icon
+        Dependency_9: map_boss_icon
+    Info_565:
+      Name: map_hamlet_icon
+      Dependencies: {}
+    Info_566:
+      Name: map_gate_icon
+      Dependencies: {}
+    Info_567:
+      Name: map_boss_icon
+      Dependencies: {}
+    Info_568:
+      Name: spriterender
+      Dependencies:
+        Dependency_0: allshader
+    Info_569:
+      Name: wildmap
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: global_map_atlas
+        Dependency_2: top_map_2d_element
+    Info_570:
+      Name: map_alliance_tower_icon
+      Dependencies: {}
+    Info_571:
+      Name: ui_efx_battle_head_1_tex
+      Dependencies: {}
+    Info_572:
+      Name: ui_efx_battle_head_1
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: light_spot_tex
+        Dependency_2: ui_efx_battle_head_1_tex
+    Info_573:
+      Name: icon_equipment_temporary_atlas
+      Dependencies: {}
+    Info_574:
+      Name: fx_zs02_atk01
+      Dependencies:
+        Dependency_0: allshader
+    Info_575:
+      Name: fx_zs04_atk01
+      Dependencies:
+        Dependency_0: allshader
+    Info_576:
+      Name: map_elite_monster
+      Dependencies: {}
+    Info_577:
+      Name: boss_dragon
+      Dependencies: {}
+    Info_578:
+      Name: fx_monster_gragon_atk_zidan
+      Dependencies:
+        Dependency_0: allshader
+    Info_579:
+      Name: fx_monster_gragon_atk_hit
+      Dependencies:
+        Dependency_0: allshader
+    Info_580:
+      Name: to$ice_01d
+      Dependencies:
+        Dependency_0: allshader
+    Info_581:
+      Name: to$ice_01e
+      Dependencies:
+        Dependency_0: allshader
+    Info_582:
+      Name: ui_troop_choose_atlas
+      Dependencies: {}
+    Info_583:
+      Name: ui_soft_mask_right_62
+      Dependencies: {}
+    Info_584:
+      Name: fx_monster_gragon_skill01_hit
+      Dependencies:
+        Dependency_0: allshader
+    Info_585:
+      Name: fx_monster_gragon_skill01_zidan
+      Dependencies:
+        Dependency_0: allshader
+    Info_586:
+      Name: farm_teching1
+      Dependencies: {}
+    Info_587:
+      Name: farm_teching2
+      Dependencies: {}
+    Info_588:
+      Name: ui_farm_teaching
+      Dependencies:
+        Dependency_0: ui_farm_icon_atlas
+        Dependency_1: ui_farm_seed_atlas
+        Dependency_2: ui_com_guide_atlas
+    Info_589:
+      Name: fx_monster_gragon_skill03
+      Dependencies:
+        Dependency_0: allshader
+    Info_590:
+      Name: boss_tree
+      Dependencies: {}
+    Info_591:
+      Name: ui_hot_update_confirm
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_com_pop_tiny
+    Info_592:
+      Name: ui_world_pop_alliance_building
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: ui_world_search_atlas
+        Dependency_3: ui_world_pop_banner_alliance_building
+    Info_593:
+      Name: ui_world_pop_village_building
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: ui_world_search_atlas
+        Dependency_3: ui_world_pop_banner_village_building
+    Info_594:
+      Name: ui_world_pop_village_boss
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common
+        Dependency_2: b_com_btn_item
+        Dependency_3: ui_world_search_atlas
+        Dependency_4: ui_world_pop_banner_village
+    Info_595:
+      Name: ui_world_pop_banner_village_building
+      Dependencies: {}
+    Info_596:
+      Name: ui_world_pop_banner_alliance_building
+      Dependencies: {}
+    Info_597:
+      Name: map_monster_material
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: map_monster
+    Info_598:
+      Name: fx_monster_gragon_skill03_2
+      Dependencies:
+        Dependency_0: allshader
+    Info_599:
+      Name: groundguideeffect
+      Dependencies:
+        Dependency_0: allshader
+    Info_600:
+      Name: hugohigh
+      Dependencies: {}
+    Info_601:
+      Name: wakanhigh
+      Dependencies: {}
+    Info_602:
+      Name: ui_farm_seed_atlas
+      Dependencies: {}
+    Info_603:
+      Name: ui_com_guide_atlas
+      Dependencies: {}
+    Info_604:
+      Name: ui_farm_log-9257
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common_atlas_v2_6
+    Info_605:
+      Name: ui_com_building_pop_btn_atlas
+      Dependencies: {}
+    Info_606:
+      Name: fx_monster_gragon_skill02
+      Dependencies:
+        Dependency_0: allshader
+    Info_607:
+      Name: hero_sence_01
+      Dependencies:
+        Dependency_0: allshader
+    Info_608:
+      Name: ui_troop_list_atlas
+      Dependencies: {}
+    Info_609:
+      Name: ui_com_guide
+      Dependencies:
+        Dependency_0: ui_glow
+        Dependency_1: ui_com_guide_atlas
+        Dependency_2: ui_com_guide_circle
+    Info_610:
+      Name: ui_com_guide_circle
+      Dependencies:
+        Dependency_0: allshader
+        Dependency_1: ui_task_btn_claim_tex
+    Info_611:
+      Name: normal_big_cystal_01
+      Dependencies:
+        Dependency_0: wm_troop
+        Dependency_1: font
+        Dependency_2: allshader
+        Dependency_3: spriterendernoztest
+        Dependency_4: ui_world_building_state_atlas
+        Dependency_5: map_gold_icon
+    Info_612:
+      Name: ui_hot_update
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: ui_common

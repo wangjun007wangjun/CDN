@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1787396469
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96a4109f93a23ffb3fe2f8e07556f73e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Texture/search/ui_world_pop_banner_lighthouse.png
+Dependencies: []

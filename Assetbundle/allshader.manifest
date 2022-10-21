@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 3306669312
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2a945f678d9ba770e60a93122b0988a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68c985bf88fecc38b460cdb825182138
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Shader/Custom/Grass.shader
+- Assets/Export/Shader/Effect/FX_Add.shader
+- Assets/Export/Shader/Custom/URP/GPULit/GPULit.shader
+- Assets/Export/Shader/Effect/FX_UV_Add.shader
+- Assets/Export/Shader/Custom/URP/Fog/Fog.shader
+- Assets/Export/Shader/Custom/Sprites/MaskArea.shader
+- Assets/Export/Shader/Custom/URP/Map/Rock.shader
+- Assets/Export/Shader/Custom/URP/GPUAnimation/GPUAnimationHero.shader
+- Assets/Export/Shader/Shader Graphs/GradientLit.shadergraph
+- Assets/Export/Shader/Custom/UI/UIGray (SoftMaskable).shader
+- Assets/Export/Shader/Effect/FX_UV_BlendClamp.shader
+- Assets/Export/Shader/Custom/URPBillboard.shader
+- Assets/Export/Shader/Effect/FX_NioseADD.shader
+- Assets/Export/Shader/Custom/Sprites/SpriteTroopLine.shader
+- Assets/Export/Shader/Effect/FX_Doulbe_UV_BlendMask.shader
+- Assets/Export/Shader/Effect/FX_UV_Mask.shader
+- Assets/Export/Shader/Effect/FX_Blend.shader
+- Assets/Export/Shader/Custom/URP/Map/RockEmissiomAlpha.shader
+- Assets/Export/Shader/Custom/SpriteNoZTest.shader
+- Assets/Export/Shader/Custom/Sprites/CastleGrid.shader
+- Assets/Export/Shader/Custom/UI/UIGray.shader
+- Assets/Export/Shader/Effect/FX_Niose_DissolveMask.shader
+- Assets/Export/Shader/Custom/URP/Map/URP_HeroSence.shader
+- Assets/Export/Shader/Custom/URP/Map/RockMixTogether.shader
+- Assets/Export/Shader/Custom/URP/Map/GrassEmission.shader
+- Assets/Export/Shader/Custom/URP/Map/Water.shader
+- Assets/Export/Shader/Custom/Blur/GaussianBlur.shader
+- Assets/Export/Shader/Effect/FX_NioseBlend.shader
+- Assets/Export/Shader/Custom/URP/Map/Terrain.shader
+- Assets/Export/Shader/Effect/FX_FresnelModel.shader
+- Assets/Export/Shader/Effect/FX_Dissolve_TwoSided.shader
+- Assets/Export/Shader/Custom/URP/Map/GrassFlower.shader
+- Assets/Export/Shader/Custom/Sprites/Base.shader
+- Assets/Export/Shader/Custom/URP/Map/TreeAlpha.shader
+- Assets/Export/Shader/Custom/URP/Map/RockEmission.shader
+- Assets/Export/Shader/Effect/FX_Dissolve_SingleFace.shader
+- Assets/Export/Shader/Custom/URP/Map/Tree.shader
+- Assets/Export/Shader/Custom/URP/Map/RockMixTogetherVertexColor.shader
+- Assets/Export/Shader/Custom/URP/SpriteRender.shader
+- Assets/Export/Shader/Effect/FX_UV_Blend.shader
+- Assets/Export/Shader/Custom/Blur/IrisBlur.shader
+- Assets/Export/Shader/Custom/Blur/TiltShiftBlur.shader
+- Assets/Export/Shader/Custom/Sprites/Background.shader
+- Assets/Export/Shader/Custom/URP/URPLit.shader
+- Assets/Export/Shader/Shader Graphs/GradientUnlit.shadergraph
+- Assets/Export/Shader/Effect/FX_Fresnel.shader
+- Assets/Export/Shader/Custom/Sprites/WarFog.shader
+- Assets/Export/Shader/Effect/FX_Dissolve.shader
+- Assets/Export/Shader/Custom/UI/UIColor.shader
+- Assets/Export/Shader/Custom/URP/GPUAnimation/GPUAnimation.shader
+- Assets/Export/Shader/Custom/URP/MapObstacle.shader
+- Assets/Export/Shader/Effect/FX_DepthGradient.shader
+- Assets/Export/Shader/Custom/URP/Map/Depthfade.shader
+Dependencies: []

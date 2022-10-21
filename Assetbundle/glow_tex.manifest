@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 572481139
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca0212960269168cc87b3f6c811bbf27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/BigMap/FX/Texture/Glow_04.png
+- Assets/Export/Prefab/Effect/UI/glow_tex.png
+Dependencies: []

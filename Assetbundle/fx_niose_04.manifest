@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1895276470
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de611d6a6aee56efbe9bd376c36406e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/Prefab/Effect/UI/FX_Niose_04.mat
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/allshader

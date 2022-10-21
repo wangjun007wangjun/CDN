@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 276003811
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4a7cf27736598f93ff016cbf1ca90cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/UI/ui_hero_detail/atlas/ui_hero_detail_atlas.png
+- Assets/Export/UI/ui_hero/atlas/ui_hero_atlas.png
+Dependencies: []

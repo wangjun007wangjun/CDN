@@ -1,0 +1,241 @@
+ManifestFileVersion: 0
+CRC: 682016022
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f08d1a7641ba443c2ad4cf838b49ca80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 99e8cd2563923ac626abd7cf81ec423e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01c85cd323a9f4dfb803470695bd0944, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e190d043ef387ee4fad4acea6146931e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efefc62f682001b4e903fc30639d0794, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41e4a2b20f7a40e4aa3178579a5fe72e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68767f191158cfb4e83a404c0f8d3a6d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d44276ba809fd92408b296835f6f7658, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aff74da9852971c429f425e7925e20f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eca96638bc122e142858f583e23c5431, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: edec6449dbd1f484cb26bb47eb87d7b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e638c4aa3c9c0e54c82cab2eb619489d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbcbd7952202d4d44a555aea5af2a351, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: SuperScrollView.ItemPrefabConfData
+- AssemblyName: Assembly-CSharp
+  ClassName: UIComponentBind/ComponentData
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.AngleAxisTheme
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.AreaStyle
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.Arrow
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.AxisTheme
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.Background
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.ChartTheme
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.ComponentTheme
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.DataZoom
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.DataZoomTheme
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.Emphasis
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.GaugeAxis
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.GaugeAxisLine
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.GaugeAxisSplitLine
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.GaugeAxisTheme
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.GaugeAxisTick
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.GaugePointer
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.Grid
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.IconStyle
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.ItemStyle
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.Legend
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.LegendTheme
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.LineArrow
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.LineStyle
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.Location
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.MarkLine
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.MarkLineData
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.PolarAxisTheme
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.RadarAxisTheme
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.RadiusAxisTheme
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.Serie
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.SerieAnimation
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.SerieData
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.SerieLabel
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.SerieSymbol
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.SerieTheme
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.Series
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.Settings
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.StageColor
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.SubTitleTheme
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.TextStyle
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.Title
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.TitleStyle
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.TitleTheme
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.Tooltip
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.TooltipTheme
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.VisualMap
+- AssemblyName: Assembly-CSharp
+  ClassName: XCharts.VisualMapTheme
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.EventSystems.EventTrigger/Entry
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.EventSystems.EventTrigger/TriggerEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Slider/SliderEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/Export/UI/ui_mail/ui_mail.prefab
+Dependencies:
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/b_com_full_top_back
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/b_t_item
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/building_0001
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/building_0002
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/font
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/icon_hero_head_atlas
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/icon_hero_skill_atlas
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/icon_player_head_atlas
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/ui_common
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/ui_mail_atlas
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/ui_mail_banner_01
+- E:/Codes/Main/ProjectRes/Assets/../../ClientRes/Windows/Assetbundle/world_map_monster_0001

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4032486881
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6075313f186350cafafd5f16ea9980e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/UI/ui_world_building_title/atlas/ui_world_building_title_atlas.png
+Dependencies: []
