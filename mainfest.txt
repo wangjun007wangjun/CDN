@@ -1,4 +1,4 @@
-{"min_app_version":"0.0.1",
+{"min_app_version":"0.0.2",
 "dlc_url":"http://raw.githubusercontent.com/wangjun007wangjun/CDN/master/",
 "dlc_url_backup":"http://raw.githubusercontent.com/wangjun007wangjun/CDN/master/",
 "server_url":"https://172.16.0.101:6122",
