@@ -4,7 +4,7 @@
 "server_url":"https://172.16.0.101:6122",
 "server_url_backup":"https://172.16.0.101:6132",
 "cdn_info":
-"{\"version\":\"0.0.11\",\"platform\":\"Android\"}",
+"{\"version\":10478,\"platform\":\"Android\"}",
 "client_ip":"1",
 "area_code":"1"
 }
